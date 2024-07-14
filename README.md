@@ -1,1 +1,1 @@
-# igomils
+# Project description and setup instructions
